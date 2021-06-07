@@ -31,4 +31,6 @@ Ao realizar um anúncio utilizando essa plataforma, você estará concordando qu
 4. Ao responder, perguntar ou comentar nas ofertas, não serão toleradas mensagens agressivas ou com tom desproporcional.
 
 
+## License
 
+This repository is licensed under [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/) (C) 2007 Free Software Foundation, Inc.
