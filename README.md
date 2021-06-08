@@ -9,9 +9,9 @@ Equipe OldToNew:
 * Raiane Garces:
 * Tiago Galvão: [@tiago-gp](https://github.com/tiago-gp)
 
-## Como anunciar?
+## Como anunciar ou tirar uma duvida?
 
-O anúncio deve ser feito por meio das issues: clique aqui
+A criação do anúncio ou das duvidas, deve ser feito por meio das issues: [clique aqui](https://github.com/tiago-gp/OldToNew/issues/new/choose)
 
 Dentro das issues já estará definido um modelo para facilitar a interação e dessa forma deixar mais organizado para aqueles que buscam os produtos oferecidos. Forneça seus dados (nome completo e bairro) e a maneira como prefere ser contactado (telefone, email) e o produto que está oferecendo. Após a descrição ser finalizada, adicione a Label correspondente a sua intenção com o produto (Venda, Troca, Dúvida ou Dica).
 
