@@ -1,10 +1,10 @@
 # OldToNew
 
-O projeto do OldToNew se trata da criação de um local de interação entre pessoas da cidade de Salvador que tem dúvidas sobre veículos antigos, ou interesse na compra de peças ou dos próprios veículos em si, com aqueles que possuem interesse em vender, trocar ou compartilhar suas experiências modificando e consertando veículos antigos com a comunidade.
+O projeto do OldToNew se trata da criação de um local de interação entre pessoas da Bahia que tem dúvidas sobre veículos antigos, ou interesse na compra de peças ou dos próprios veículos em si, com aqueles que possuem interesse em vender, trocar ou compartilhar suas experiências modificando e consertando veículos antigos com a comunidade.
 
 Equipe OldToNew:
 * Alisson Melo: [@alissonmelom](https://github.com/alissonmelom)
-* Amadeu Cerqueira: [@]()
+* Amadeu Cerqueira: [@dedeu1998](https://github.com/dedeu1998)
 * Luiz Henrique: [@luizhenriquecosta](https://github.com/luizhenriquecosta)
 * Raiane Garces: [@raianegarces](https://github.com/raianegarces)
 * Tiago Galvão: [@tiago-gp](https://github.com/tiago-gp)
@@ -13,7 +13,7 @@ Equipe OldToNew:
 
 A criação do anúncio ou das duvidas, deve ser feito por meio das issues: [clique aqui](https://github.com/tiago-gp/OldToNew/issues/new/choose)
 
-Dentro das issues já estará definido um modelo para facilitar a interação e dessa forma deixar mais organizado para aqueles que buscam os produtos oferecidos. Forneça seus dados (nome completo e bairro) e a maneira como prefere ser contactado (telefone, email) e o produto que está oferecendo. Após a descrição ser finalizada, adicione a Label correspondente a sua intenção com o produto (Venda, Troca, Dúvida ou Dica).
+Dentro das issues já estará definido um modelo para facilitar a interação e dessa forma deixar mais organizado para aqueles que buscam os produtos oferecidos. Forneça seus dados (nome completo, bairro e cidade) e a maneira como prefere ser contactado (telefone, email) e o produto que está oferecendo. Após a descrição ser finalizada, adicione a Label correspondente a sua intenção com o produto (Venda, Troca, Dúvida ou Dica).
 
 Observações:
 
