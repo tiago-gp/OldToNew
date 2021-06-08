@@ -16,3 +16,5 @@ assignees: ''
 
 - [Coloque aqui seu nome completo]
 - [Coloque aqui como deseja ser contatado no caso de maiores duvidas (telefone ou e-mail)]
+
+<h2> Antes de finalizar, selecione a Label adequada<h2>
