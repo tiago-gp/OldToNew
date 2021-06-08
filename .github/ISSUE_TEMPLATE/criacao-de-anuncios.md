@@ -22,3 +22,5 @@ assignees: ''
 (Essa seção pode ser ignorada caso prefira combinar diretamente com o cliente)
 
 [Informe aqui como será feito o envio do produto ou o local onde ele pode ser retirado e a forma de pagamento (caso o produto ofertado seja com o intuito de venda)]
+
+<h2> Antes de finalizar, selecione a Label adequada<h2>
