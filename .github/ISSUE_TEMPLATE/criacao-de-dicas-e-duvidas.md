@@ -9,7 +9,7 @@ assignees: ''
 
 <h1> Assunto a ser abordado na sua duvida ou dica </h1> 
 
-[Coloque aqui a sua duvida ou dica].
+[Coloque aqui a sua duvida ou dica e caso possua, cole suas imagens aqui].
 
 
 <h2> Dados do Ofertante </h2> 
