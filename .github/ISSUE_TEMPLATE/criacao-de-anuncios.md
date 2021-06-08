@@ -9,7 +9,7 @@ assignees: ''
 
 <h1> Produto sendo anunciado </h1> 
 
-[Coloque aqui a descrição do produto que gostaria de anunciar, junto com o preço (se deseja comercializa-lo) ou o objeto que deseja trocar por (se deseja trocar o produto por outro)].
+[Coloque aqui a descrição do produto que gostaria de anunciar, junto com o preço (se deseja comercializa-lo) ou o objeto que deseja trocar por (se deseja trocar o produto por outro) e tambêm cole aqui imagens do produto (caso possua)].
 
 <h2> Dados do Ofertante </h2> 
 
