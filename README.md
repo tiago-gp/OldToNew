@@ -3,10 +3,10 @@
 O projeto do OldToNew se trata da criação de um local de interação entre pessoas da cidade de Salvador que tem dúvidas sobre veículos antigos, ou interesse na compra de peças ou dos próprios veículos em si, com aqueles que possuem interesse em vender, trocar ou compartilhar suas experiências modificando e consertando veículos antigos com a comunidade.
 
 Equipe OldToNew:
-* Alisson Melo: 
-* Amadeu Cerqueira:
-* Luiz Henrique:
-* Raiane Garces:
+* Alisson Melo: [@alissonmelom](https://github.com/alissonmelom)
+* Amadeu Cerqueira: [@]()
+* Luiz Henrique: [@luizhenriquecosta](https://github.com/luizhenriquecosta)
+* Raiane Garces: [@raianegarces](https://github.com/raianegarces)
 * Tiago Galvão: [@tiago-gp](https://github.com/tiago-gp)
 
 ## Como anunciar ou tirar uma duvida?
@@ -33,4 +33,4 @@ Ao realizar um anúncio utilizando essa plataforma, você estará concordando qu
 
 ## License
 
-This repository is licensed under [GNU GENERAL PUBLIC LICENSE Version 3](https://www.gnu.org/licenses/) (C) 2007 Free Software Foundation, Inc.
+This repository is licensed under [GNU GPL V3.0](https://www.gnu.org/licenses/) (C) 2007 Free Software Foundation, Inc.
